@@ -9,7 +9,8 @@ public class IMC {
     private String nombre;
     private double peso;
     private double estatura;
-
+    
+   /** Metodo constructor */
     public IMC(String nombre, double peso, double estatura) {
         this.nombre = nombre;
         this.peso = peso;
